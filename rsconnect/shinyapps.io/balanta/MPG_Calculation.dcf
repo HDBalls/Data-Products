@@ -1,0 +1,13 @@
+name: MPG_Calculation
+title: MPG_Calculation
+username:
+account: balanta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6271489
+bundleId: 5890979
+url: https://balanta.shinyapps.io/MPG_Calculation/
+when: 1652186290.43865
+lastSyncTime: 1652186290.43865
+asMultiple: FALSE
+asStatic: FALSE
